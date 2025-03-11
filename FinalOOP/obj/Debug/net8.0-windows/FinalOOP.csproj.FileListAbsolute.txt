@@ -1,0 +1,16 @@
+D:\Code\C#\FinalOOP\FinalOOP\bin\Debug\net8.0-windows\FinalOOP.exe
+D:\Code\C#\FinalOOP\FinalOOP\bin\Debug\net8.0-windows\FinalOOP.deps.json
+D:\Code\C#\FinalOOP\FinalOOP\bin\Debug\net8.0-windows\FinalOOP.runtimeconfig.json
+D:\Code\C#\FinalOOP\FinalOOP\bin\Debug\net8.0-windows\FinalOOP.dll
+D:\Code\C#\FinalOOP\FinalOOP\bin\Debug\net8.0-windows\FinalOOP.pdb
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.Form1.resources
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.csproj.GenerateResource.cache
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.AssemblyInfoInputs.cache
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.AssemblyInfo.cs
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.csproj.CoreCompileInputs.cache
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.dll
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\refint\FinalOOP.dll
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.pdb
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\FinalOOP.genruntimeconfig.cache
+D:\Code\C#\FinalOOP\FinalOOP\obj\Debug\net8.0-windows\ref\FinalOOP.dll
