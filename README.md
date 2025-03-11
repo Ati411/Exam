@@ -70,6 +70,10 @@ classDiagram
 -คลาส Student และ Advisor สืบทอดจาก คลาส Person ทำให้สามารถใช้คุณสมบัติของ Person ได้โดยไม่ต้องเขียนโค้ดซ้ำ
 ## 4.Polymorphism
 -เมธอด AddStudent(Student student) ใน Advisor ถูกใช้งานเพื่อเพิ่มนักศึกษาเข้ามาในรายชื่อของอาจารย์ที่ปรึกษา -สามารถ ปรับแต่งหรือขยายเมธอดเดิม ในอนาคตเพื่อรองรับการทำงานเพิ่มเติม
+# UI App
+![image](https://github.com/user-attachments/assets/19b627be-a7c0-4089-8d09-37080004c50c)
+
+
 ## How to Use App
 1.เปิดโปรแกรม
 
